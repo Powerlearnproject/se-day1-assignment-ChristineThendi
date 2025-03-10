@@ -52,6 +52,12 @@ acceptance testing- done to access whether the software meeets the user needs or
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+The process of writing instructions or statements to get the most output of responses from ai models.
+its relevant in helping provide the desired output by giving detailed yet desired information from the given prompts 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+vague prompt-how to write a poem
+improved prompt- write a short sweet poem about nature.
+improved prompt is more effective since it will provide the specific  required details as well as maintain creativity.
+
