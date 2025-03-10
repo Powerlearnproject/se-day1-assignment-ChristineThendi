@@ -33,13 +33,20 @@ quality assuarance engineer-measures, tests and ensures that the quality of the 
 project manager- ensures that execution of the project is done unto completion and delivery.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDES provide a comprehensive environment for software development, offering features such as code editing, debugging, and build automation in a single application providing tools for completion and project management. eg visual studio code
+version control systems are essential for tracking changes in code, enabling collaboration through simultenous working of the same codebase , thus reducing the rate of code conflict while ensuring the integrity of the codebase. eg git
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+changing requirements or needs- this causes alot of delays as then the developer has to rewrite the code thus affecting delivery timelines.
+tight deadlines- this leads to compromised quality as the pressure to deliver on strict deadlines increases.
+prioritization of tasks is really helpful so thhat he proceess of software development doesnt get cumbersome.
+use of methodoligies that favour collaboration such as agile to ensure continous improvement and flexibility.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+unit testing- done on individual components or modules of the software
+integration testing- done on the different interacting components of the software
+system testing-conducted on the software as whole.
+acceptance testing- done to access whether the software meeets the user needs or requirements.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
