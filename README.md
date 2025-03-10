@@ -5,19 +5,32 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+software engineering is the systematic application of engineering principles and development of tools and methods to develop and maintain high quality software systems that power modern life and various industries.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+the development of programming languages- these are tools that were used in the development  of systems
+the establishemnt of software engineering as a discipline- this helped in active study and clear focus on the principles,methodologies and structured development of systems and their application.
+the advent of structured programming-the implementation of structured techniques to organize code and reuse various components to ensure its usability.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+requirements- Gathering information about user needs
+design- creation of high level design and software architecture and user interface
+implementation- building of the software to the set standard and design specifications.
+testing- conducting various tests to ensure the software meets the set requirements.
+deployment- allowing access  to the software users
+maintainance- providing ongoing support to users and making improvements, changes and enhancements after deployment
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+Agile is flexible and iterative, emphasizing continuous feedback and adaptation  to the evolving needs while Waterfall is sequential and rigid, with distinct phases completed in order as per the presented design.
+examples of agile methodology is in the creation of a financial software system
+examples of waterfall methodology is in the construction of a building.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+software developer- responsible for writing codes and implementing them to ensure build up of software solutions accordingly.
+quality assuarance engineer-measures, tests and ensures that the quality of the software is to the set standard throughout its development life cycle and also meet user expectation.
+project manager- ensures that execution of the project is done unto completion and delivery.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
